@@ -2,6 +2,8 @@
 .idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
+fast_api_course
+.DS_Store
 *.py[cod]
 *$py.class
 
